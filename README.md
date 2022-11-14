@@ -5,4 +5,5 @@
 Chapter 3. [사이킷런을 타고 떠나는 머신러닝 분류 모델 투어](https://github.com/2hg7274/ML_DL_study/tree/main/ch03)  
 Chapter 4. [좋은 훈련 데이터셋 만들기: 데이터 전처리](https://github.com/2hg7274/ML_DL_study/tree/main/ch04)  
 Chapter 5. [차원 축소를 사용한 데이터 압축](https://github.com/2hg7274/ML_DL_study/tree/main/ch05)  
-Chapter 6. [모델 평가와 하이퍼파라미터 튜닝의 모범 사례](https://github.com/2hg7274/ML_DL_study/tree/main/ch06)
+Chapter 6. [모델 평가와 하이퍼파라미터 튜닝의 모범 사례](https://github.com/2hg7274/ML_DL_study/tree/main/ch06)  
+Chapter 7. [다양한 모델을 결합한 앙상블 학습](https://github.com/2hg7274/ML_DL_study/tree/main/ch07)
