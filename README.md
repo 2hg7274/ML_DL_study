@@ -8,5 +8,6 @@ Chapter 5. [차원 축소를 사용한 데이터 압축](https://github.com/2hg7
 Chapter 6. [모델 평가와 하이퍼파라미터 튜닝의 모범 사례](https://github.com/2hg7274/ML_DL_study/tree/main/ch06)  
 Chapter 7. [다양한 모델을 결합한 앙상블 학습](https://github.com/2hg7274/ML_DL_study/tree/main/ch07)  
 Chapter 8. [감성 분석에 머신 러닝 적용](https://github.com/2hg7274/ML_DL_study/tree/main/ch08)  
+Chapter 9. [웹 애플리케이션에 머신 러닝 모델 내장](https://github.com/2hg7274/ML_DL_study/tree/main/ch09)   
 Chapter 10. [회귀 분석으로 연속적 타깃 변수 예측](https://github.com/2hg7274/ML_DL_study/tree/main/ch10)  
 Chapter 11. [레이블되지 않은 데이터 다루기: 군집 분석](https://github.com/2hg7274/ML_DL_study/tree/main/ch11)
