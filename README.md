@@ -11,4 +11,5 @@ Chapter 8. [감성 분석에 머신 러닝 적용](https://github.com/2hg7274/ML
 Chapter 9. [웹 애플리케이션에 머신 러닝 모델 내장](https://github.com/2hg7274/ML_DL_study/tree/main/ch09)   
 Chapter 10. [회귀 분석으로 연속적 타깃 변수 예측](https://github.com/2hg7274/ML_DL_study/tree/main/ch10)  
 Chapter 11. [레이블되지 않은 데이터 다루기: 군집 분석](https://github.com/2hg7274/ML_DL_study/tree/main/ch11)  
-Chapter 12. [다층 인공 신경망을 밑바닥부터 구현](https://github.com/2hg7274/ML_DL_study/tree/main/ch12)
+Chapter 12. [다층 인공 신경망을 밑바닥부터 구현](https://github.com/2hg7274/ML_DL_study/tree/main/ch12)  
+Chapter 13.  [텐서플로를 사용한 신경망 훈련](https://github.com/2hg7274/ML_DL_study/tree/main/ch13)
