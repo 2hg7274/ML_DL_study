@@ -28,4 +28,6 @@
   - 소프트맥스 함수를 사용한 다중 클래스 확률 예측
   - 하이퍼볼릭 탄젠트로 출력 범위 넓히기
   - 렐루 활성화 함수
-- 요약
+- 요약  
+
+> [M1 맥북 tensorflow 설치](https://velog.io/@psjlmk/M1-%EB%A7%A5%EB%B6%81-tensorflow-%EC%84%A4%EC%B9%98)
