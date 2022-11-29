@@ -16,3 +16,4 @@ Chapter 13.  [텐서플로를 사용한 신경망 훈련](https://github.com/2hg
 Chapter 14.  [텐서플로 구조 자세히 알아보기](https://github.com/2hg7274/ML_DL_study/tree/main/ch14)  
 Chapter 15.  [심층 합성곱 신경망으로 이미지 분류](https://github.com/2hg7274/ML_DL_study/tree/main/ch15)  
 Chapter 16.  [순환 신경망으로 순차 데이터 모델링](https://github.com/2hg7274/ML_DL_study/tree/main/ch16)  
+Chapter 17.  [새로운 데이터 합성을 위한 생성적 적대 신경망](https://github.com/2hg7274/ML_DL_study/tree/main/ch17)  
